@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SelfDivisor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SelfDivisor\ here.\r\n\r\n\ @author\ (Casey\ Groves)\r\n\ @version\ (November\ 1,\ 2018)\r\n
+comment1.params=number
+comment1.target=boolean\ isSelfDivisor(int)
+comment1.text=\r\n\ @param\ \ number\ the\ number\ to\ be\ tested\r\n\ @return\ true\ if\ every\ decimal\ digit\ is\ a\ divisor\ of\ number;\ \r\n\ \ \ \ \ \ \ \ \ false\ otherwise\r\n
+comment2.params=start\ num
+comment2.target=int[]\ firstNumSelfDivisors(int,\ int)
+comment2.text=\r\n\ @param\ start\ starting\ point\ for\ values\ to\ be\ checked\r\n\ @param\ num\ the\ size\ of\ the\ array\ to\ be\ returned\r\n\ @return\ an\ array\ containing\ the\ first\ num\ integers\ >\=\ start\ that\ are\ \r\n\ \ \ \ \ \ \ \ \ self-divisors\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
